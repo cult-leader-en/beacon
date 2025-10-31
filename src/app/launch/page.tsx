@@ -16,9 +16,6 @@ export default function LaunchPage() {
         <p className="text-lg mb-8 text-slate-600">
           Skyward Protocol empowers communities to pool resources and generate sustainable yield. Coming soon.
         </p>
-        <Link href="/">
-          <Button>← Back to Home</Button>
-        </Link>
       </motion.div>
     </div>
   );
