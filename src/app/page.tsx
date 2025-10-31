@@ -32,9 +32,6 @@ export default function Home() {
         <p className="text-lg text-slate-700 leading-relaxed mb-4">
           Imagine a world where communities can collectively generate sustainable income to meet their local needs. Skyward Protocol enables local pods to pool resources, generate yield through DeFi, and democratically allocate funds for the collective good.
         </p>
-        <Link href="/launch">
-          <Button>Start Your Community Pod</Button>
-        </Link>
       </motion.section>
 
       {/* Features + Protocol + Footer same as before */}
